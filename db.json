@@ -1,0 +1,731 @@
+{
+  "events": [
+    {
+      "id": 2001,
+      "title": "Bengaluru Laugh Fest - Night 1",
+      "name": "Kanan Gill",
+      "description": "Kanan Gill headlines a new set of jokes on his India Laugh Fest tour.",
+      "banner_image": "https://images.unsplash.com/photo-1527224857830-43a7acc85260?w=800",
+      "location": {
+        "city": "Bangalore",
+        "venue": "Good Shepherd Auditorium",
+        "address": "7, Museum Rd, Ashok Nagar, Bengaluru"
+      },
+      "dates": [
+        { "date": "2025-11-12", "time": "8:00 PM" }
+      ],
+      "base_price": 899,
+      "currency": "INR",
+      "categories": ["standup", "comedy"],
+      "is_favorite": false,
+      "is_trending": true,
+      "is_featured": true,
+      "available_seats": 60,
+      "organizer": {
+        "id": 1,
+        "name": "Big Laughs",
+        "contact": "hello@biglaughs.com"
+      }
+    },
+    {
+      "id": 2002,
+      "title": "Open Mic Mania",
+      "name": "Various Comics",
+      "description": "The city's best new talent try out their material at Bangalore's premier open mic night.",
+      "banner_image": "https://images.unsplash.com/photo-1585699324551-f6c309eedeca?w=800",
+      "location": {
+        "city": "Bangalore",
+        "venue": "That Comedy Club",
+        "address": "4th Floor, 80 Feet Rd, Koramangala, Bengaluru"
+      },
+      "dates": [
+        { "date": "2025-11-13", "time": "7:00 PM" }
+      ],
+      "base_price": 299,
+      "currency": "INR",
+      "categories": ["standup", "openmic"],
+      "is_favorite": false,
+      "is_trending": false,
+      "is_featured": false,
+      "available_seats": 35,
+      "organizer": {
+        "id": 2,
+        "name": "That Comedy Club",
+        "contact": "info@thatcomedyclub.com"
+      }
+    },
+    {
+      "id": 2003,
+      "title": "Laugh Riot Weekend",
+      "name": "Rahul Subramanian",
+      "description": "An evening of laughter with Rahul Subramanian performing his brand new set.",
+      "banner_image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=800",
+      "location": {
+        "city": "Bangalore",
+        "venue": "Ranga Shankara",
+        "address": "36/2, 8th Cross Rd, J.P. Nagar, Bengaluru"
+      },
+      "dates": [
+        { "date": "2025-11-14", "time": "6:30 PM" }
+      ],
+      "base_price": 699,
+      "currency": "INR",
+      "categories": ["standup", "comedy"],
+      "is_favorite": false,
+      "is_trending": true,
+      "is_featured": false,
+      "available_seats": 100,
+      "organizer": {
+        "id": 3,
+        "name": "LOL Events",
+        "contact": "events@lolevents.com"
+      }
+    },
+    {
+      "id": 3001,
+      "title": "Verses in the Garden",
+      "name": "Anamika Joshi",
+      "description": "Experience lyrical magic under the stars at Bangalore's most enchanting poetry night.",
+      "banner_image": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800",
+      "location": {
+        "city": "Bangalore",
+        "venue": "Botanical Gardens Amphitheatre",
+        "address": "Lalbagh Rd, Mavalli, Bengaluru"
+      },
+      "dates": [
+        { "date": "2025-11-12", "time": "6:00 PM" }
+      ],
+      "base_price": 499,
+      "currency": "INR",
+      "categories": ["poetry", "openmic"],
+      "is_favorite": false,
+      "is_trending": false,
+      "is_featured": true,
+      "available_seats": 110,
+      "organizer": {
+        "id": 4,
+        "name": "Verse Collective",
+        "contact": "info@versecollective.com"
+      }
+    },
+    {
+      "id": 3002,
+      "title": "Open Mic Poetry Bash",
+      "name": "Various Artists",
+      "description": "New and established poets share their work in this inclusive open mic.",
+      "banner_image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+      "location": {
+        "city": "Bangalore",
+        "venue": "Atta Galatta",
+        "address": "134, KHB Colony, Koramangala, Bengaluru"
+      },
+      "dates": [
+        { "date": "2025-11-13", "time": "7:00 PM" }
+      ],
+      "base_price": 199,
+      "currency": "INR",
+      "categories": ["poetry", "performance"],
+      "is_favorite": false,
+      "is_trending": false,
+      "is_featured": false,
+      "available_seats": 60,
+      "organizer": {
+        "id": 5,
+        "name": "Atta Galatta",
+        "contact": "hello@attagalatta.com"
+      }
+    },
+    {
+      "id": 3003,
+      "title": "Spoken Word Extravaganza",
+      "name": "Praveen Kumar",
+      "description": "A gathering for lovers of live storytelling and spoken word artistry.",
+      "banner_image": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=800",
+      "location": {
+        "city": "Bangalore",
+        "venue": "Alliance Française",
+        "address": "Thimmaiah Rd, Vasanth Nagar, Bengaluru"
+      },
+      "dates": [
+        { "date": "2025-11-14", "time": "6:30 PM" }
+      ],
+      "base_price": 299,
+      "currency": "INR",
+      "categories": ["poetry", "spokenword"],
+      "is_favorite": false,
+      "is_trending": true,
+      "is_featured": false,
+      "available_seats": 120,
+      "organizer": {
+        "id": 6,
+        "name": "Speak Up",
+        "contact": "info@speakup.com"
+      }
+    },
+    {
+      "id": 4001,
+      "title": "Shakespeare in the Park: Hamlet",
+      "name": "The Bangalore Theatre Society",
+      "description": "A classic English tragedy staged open-air with a local cast.",
+      "banner_image": "https://images.unsplash.com/photo-1507924538820-ede94a04019d?w=800",
+      "location": {
+        "city": "Bangalore",
+        "venue": "Cubbon Park Open Theatre",
+        "address": "Cubbon Park Rd, Sampangi Rama Nagar, Bengaluru"
+      },
+      "dates": [
+        { "date": "2025-11-12", "time": "7:30 PM" }
+      ],
+      "base_price": 599,
+      "currency": "INR",
+      "categories": ["theatre", "drama"],
+      "is_favorite": false,
+      "is_trending": false,
+      "is_featured": true,
+      "available_seats": 150,
+      "organizer": {
+        "id": 7,
+        "name": "Bangalore Theatre Society",
+        "contact": "info@bts.com"
+      }
+    },
+    {
+      "id": 4002,
+      "title": "Hindi Play Night: 'Shatranj Ke Khiladi'",
+      "name": "Natya Rang",
+      "description": "A Hindi adaptation of the iconic story by Premchand, brought to life on stage.",
+      "banner_image": "https://images.unsplash.com/photo-1514306191717-452ec28c7814?w=800",
+      "location": {
+        "city": "Bangalore",
+        "venue": "Ravindra Kalakshetra",
+        "address": "JC Rd, Sudhama Nagar, Bengaluru"
+      },
+      "dates": [
+        { "date": "2025-11-13", "time": "6:00 PM" }
+      ],
+      "base_price": 399,
+      "currency": "INR",
+      "categories": ["theatre", "hindi"],
+      "is_favorite": false,
+      "is_trending": false,
+      "is_featured": false,
+      "available_seats": 80,
+      "organizer": {
+        "id": 8,
+        "name": "Natya Rang",
+        "contact": "contact@natyarang.com"
+      }
+    },
+    {
+      "id": 4003,
+      "title": "Modern Theatre: 'Voices Unheard'",
+      "name": "Avant Theatre",
+      "description": "A contemporary play exploring modern themes, featuring Bangalore's rising talents.",
+      "banner_image": "https://images.unsplash.com/photo-1503095396549-807759245b35?w=800",
+      "location": {
+        "city": "Bangalore",
+        "venue": "Jagriti Theatre",
+        "address": "Whitefield, Ramagondanahalli, Bengaluru"
+      },
+      "dates": [
+        { "date": "2025-11-14", "time": "8:00 PM" }
+      ],
+      "base_price": 499,
+      "currency": "INR",
+      "categories": ["theatre", "modern"],
+      "is_favorite": false,
+      "is_trending": true,
+      "is_featured": false,
+      "available_seats": 95,
+      "organizer": {
+        "id": 9,
+        "name": "Avant Theatre",
+        "contact": "info@avanttheatre.com"
+      }
+    },
+    {
+      "id": 5001,
+      "title": "Neon Night Party",
+      "name": "DJ Shadow Dubai",
+      "description": "A dazzling neon party with the best EDM from DJ Shadow Dubai. Glow in the dark and dance all night.",
+      "banner_image": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=800",
+      "location": {
+        "city": "Bangalore",
+        "venue": "NoLimmits Lounge & Club",
+        "address": "8, Ground Floor, Brigade Rd, Ashok Nagar, Bengaluru"
+      },
+      "dates": [
+        { "date": "2025-11-12", "time": "9:00 PM" }
+      ],
+      "base_price": 799,
+      "currency": "INR",
+      "categories": ["club", "party"],
+      "is_favorite": false,
+      "is_trending": true,
+      "is_featured": true,
+      "available_seats": 180,
+      "organizer": {
+        "id": 11,
+        "name": "Club Mania",
+        "contact": "info@clubmania.com"
+      }
+    },
+    {
+      "id": 5002,
+      "title": "Bollywood Club Night",
+      "name": "DJ Chetas",
+      "description": "Bangalore's favorite Bollywood DJ spins the hottest tracks at one of the city's top venues.",
+      "banner_image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=800",
+      "location": {
+        "city": "Bangalore",
+        "venue": "Foxtrot House of Subculture",
+        "address": "12th Main Rd, Indiranagar, Bengaluru"
+      },
+      "dates": [
+        { "date": "2025-11-13", "time": "10:00 PM" }
+      ],
+      "base_price": 999,
+      "currency": "INR",
+      "categories": ["club", "bollywood"],
+      "is_favorite": true,
+      "is_trending": true,
+      "is_featured": false,
+      "available_seats": 120,
+      "organizer": {
+        "id": 12,
+        "name": "Bollywood Nights",
+        "contact": "contact@bollywoodnights.com"
+      }
+    },
+    {
+      "id": 5003,
+      "title": "Saturday Sundowner",
+      "name": "Anish Sood",
+      "description": "Chill to house and deep beats with Anish Sood at Bangalore's favorite rooftop club.",
+      "banner_image": "https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec?w=800",
+      "location": {
+        "city": "Bangalore",
+        "venue": "Skyye",
+        "address": "UB City, 16th Floor, Ashok Nagar, Bengaluru"
+      },
+      "dates": [
+        { "date": "2025-11-14", "time": "5:00 PM" }
+      ],
+      "base_price": 1199,
+      "currency": "INR",
+      "categories": ["club", "party"],
+      "is_favorite": false,
+      "is_trending": false,
+      "is_featured": true,
+      "available_seats": 90,
+      "organizer": {
+        "id": 13,
+        "name": "Skyye Events",
+        "contact": "events@skyye.com"
+      }
+    },
+    {
+      "id": 6001,
+      "title": "Bangalore Marathon 2025",
+      "name": "Marathon India",
+      "description": "Annual city marathon featuring 5K, 10K, and full marathon circuits.",
+      "banner_image": "https://images.unsplash.com/photo-1452626038306-9aae5e071dd3?w=800",
+      "location": {
+        "city": "Bangalore",
+        "venue": "Kanteerava Stadium",
+        "address": "Kasturba Rd, Sampangi Rama Nagar, Bengaluru"
+      },
+      "dates": [
+        { "date": "2025-11-12", "time": "6:00 AM" }
+      ],
+      "base_price": 699,
+      "currency": "INR",
+      "categories": ["sports", "marathon"],
+      "is_favorite": false,
+      "is_trending": true,
+      "is_featured": false,
+      "available_seats": 300,
+      "organizer": {
+        "id": 21,
+        "name": "Marathon India",
+        "contact": "info@marathonindia.com"
+      }
+    },
+    {
+      "id": 6002,
+      "title": "FIFA E-sports Qualifier",
+      "name": "E-League",
+      "description": "Compete in Bangalore's biggest FIFA 25 e-sports tournament.",
+      "banner_image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800",
+      "location": {
+        "city": "Bangalore",
+        "venue": "Gaming Monk Arena",
+        "address": "14th Main Rd, HSR Layout, Bengaluru"
+      },
+      "dates": [
+        { "date": "2025-11-13", "time": "10:00 AM" }
+      ],
+      "base_price": 499,
+      "currency": "INR",
+      "categories": ["sports", "esports"],
+      "is_favorite": false,
+      "is_trending": false,
+      "is_featured": false,
+      "available_seats": 80,
+      "organizer": {
+        "id": 22,
+        "name": "E-League India",
+        "contact": "contact@eleague.in"
+      }
+    },
+    {
+      "id": 6003,
+      "title": "Cyclothon Bangalore",
+      "name": "Cycle Knights",
+      "description": "Ride across the city in India's fastest growing cycling event.",
+      "banner_image": "https://images.unsplash.com/photo-1541625602330-2277a4c46182?w=800",
+      "location": {
+        "city": "Bangalore",
+        "venue": "Cubbon Park",
+        "address": "Kasturba Rd, Sampangi Rama Nagar, Bengaluru"
+      },
+      "dates": [
+        { "date": "2025-11-14", "time": "5:30 AM" }
+      ],
+      "base_price": 299,
+      "currency": "INR",
+      "categories": ["sports", "cycling"],
+      "is_favorite": false,
+      "is_trending": true,
+      "is_featured": false,
+      "available_seats": 150,
+      "organizer": {
+        "id": 23,
+        "name": "Cycle Knights",
+        "contact": "info@cycleknights.com"
+      }
+    },
+    {
+      "id": 6004,
+      "title": "Street Football Tournament",
+      "name": "Urban Sports",
+      "description": "Show off your football skills in Bangalore's street football championship.",
+      "banner_image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=800",
+      "location": {
+        "city": "Bangalore",
+        "venue": "Play Arena",
+        "address": "Sarjapur Rd, Kaikondrahalli, Bengaluru"
+      },
+      "dates": [
+        { "date": "2025-11-13", "time": "4:00 PM" }
+      ],
+      "base_price": 399,
+      "currency": "INR",
+      "categories": ["sports", "football"],
+      "is_favorite": true,
+      "is_trending": false,
+      "is_featured": false,
+      "available_seats": 60,
+      "organizer": {
+        "id": 24,
+        "name": "Urban Sports Collective",
+        "contact": "hello@urbansports.in"
+      }
+    },
+    {
+      "id": 6005,
+      "title": "Badminton Challenge Cup",
+      "name": "Smashers Club",
+      "description": "Open badminton tournament for all age groups with prizes and trophies.",
+      "banner_image": "https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?w=800",
+      "location": {
+        "city": "Bangalore",
+        "venue": "Shuttle Express",
+        "address": "HSR Layout, Sector 2, Bengaluru"
+      },
+      "dates": [
+        { "date": "2025-11-14", "time": "8:00 AM" }
+      ],
+      "base_price": 199,
+      "currency": "INR",
+      "categories": ["sports", "badminton"],
+      "is_favorite": false,
+      "is_trending": false,
+      "is_featured": false,
+      "available_seats": 70,
+      "organizer": {
+        "id": 25,
+        "name": "Smashers Club",
+        "contact": "info@smashersclub.com"
+      }
+    }
+  ],
+  "artists": [
+    {
+      "id": 1,
+      "name": "Kanan Gill",
+      "category": "comedy",
+      "bio": "One of India's most popular stand-up comedians known for his observational humor.",
+      "image": "https://images.unsplash.com/photo-1566492031773-4f4e44671857?w=400",
+      "events": [2001]
+    },
+    {
+      "id": 2,
+      "name": "Rahul Subramanian",
+      "category": "comedy",
+      "bio": "Award-winning comedian with a unique storytelling style.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
+      "events": [2003]
+    },
+    {
+      "id": 3,
+      "name": "Anamika Joshi",
+      "category": "poetry",
+      "bio": "Contemporary poet exploring themes of identity and belonging.",
+      "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400",
+      "events": [3001]
+    },
+    {
+      "id": 4,
+      "name": "Praveen Kumar",
+      "category": "poetry",
+      "bio": "Spoken word artist known for powerful performances.",
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400",
+      "events": [3003]
+    },
+    {
+      "id": 5,
+      "name": "DJ Shadow Dubai",
+      "category": "music",
+      "bio": "International DJ spinning the best EDM and house tracks.",
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+      "events": [5001]
+    },
+    {
+      "id": 6,
+      "name": "DJ Chetas",
+      "category": "music",
+      "bio": "Bangalore's favorite Bollywood DJ with chart-topping remixes.",
+      "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=400",
+      "events": [5002]
+    },
+    {
+      "id": 7,
+      "name": "Anish Sood",
+      "category": "music",
+      "bio": "Progressive house and techno producer with international acclaim.",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400",
+      "events": [5003]
+    }
+  ],
+  "organizers": [
+    {
+      "id": 1,
+      "name": "Big Laughs",
+      "contact": "hello@biglaughs.com",
+      "description": "Premier comedy event organizer in India",
+      "events": [2001]
+    },
+    {
+      "id": 2,
+      "name": "That Comedy Club",
+      "contact": "info@thatcomedyclub.com",
+      "description": "Bangalore's leading comedy venue and event space",
+      "events": [2002]
+    },
+    {
+      "id": 3,
+      "name": "LOL Events",
+      "contact": "events@lolevents.com",
+      "description": "Bringing laughter to cities across India",
+      "events": [2003]
+    },
+    {
+      "id": 4,
+      "name": "Verse Collective",
+      "contact": "info@versecollective.com",
+      "description": "Curating poetry and literary experiences",
+      "events": [3001]
+    },
+    {
+      "id": 5,
+      "name": "Atta Galatta",
+      "contact": "hello@attagalatta.com",
+      "description": "Cultural hub for literature and arts in Bangalore",
+      "events": [3002]
+    },
+    {
+      "id": 6,
+      "name": "Speak Up",
+      "contact": "info@speakup.com",
+      "description": "Platform for spoken word artists and storytellers",
+      "events": [3003]
+    },
+    {
+      "id": 7,
+      "name": "Bangalore Theatre Society",
+      "contact": "info@bts.com",
+      "description": "Oldest theatre group in Bangalore",
+      "events": [4001]
+    },
+    {
+      "id": 8,
+      "name": "Natya Rang",
+      "contact": "contact@natyarang.com",
+      "description": "Hindi theatre productions and workshops",
+      "events": [4002]
+    },
+    {
+      "id": 9,
+      "name": "Avant Theatre",
+      "contact": "info@avanttheatre.com",
+      "description": "Contemporary and experimental theatre collective",
+      "events": [4003]
+    },
+    {
+      "id": 11,
+      "name": "Club Mania",
+      "contact": "info@clubmania.com",
+      "description": "Nightlife event management company",
+      "events": [5001]
+    },
+    {
+      "id": 12,
+      "name": "Bollywood Nights",
+      "contact": "contact@bollywoodnights.com",
+      "description": "Bollywood themed party organizers",
+      "events": [5002]
+    },
+    {
+      "id": 13,
+      "name": "Skyye Events",
+      "contact": "events@skyye.com",
+      "description": "Premium rooftop venue event management",
+      "events": [5003]
+    },
+    {
+      "id": 21,
+      "name": "Marathon India",
+      "contact": "info@marathonindia.com",
+      "description": "Organizing marathons and running events nationwide",
+      "events": [6001]
+    },
+    {
+      "id": 22,
+      "name": "E-League India",
+      "contact": "contact@eleague.in",
+      "description": "E-sports tournament organizers",
+      "events": [6002]
+    },
+    {
+      "id": 23,
+      "name": "Cycle Knights",
+      "contact": "info@cycleknights.com",
+      "description": "Cycling events and community building",
+      "events": [6003]
+    },
+    {
+      "id": 24,
+      "name": "Urban Sports Collective",
+      "contact": "hello@urbansports.in",
+      "description": "Street sports and urban athletics",
+      "events": [6004]
+    },
+    {
+      "id": 25,
+      "name": "Smashers Club",
+      "contact": "info@smashersclub.com",
+      "description": "Badminton and racquet sports events",
+      "events": [6005]
+    }
+  ],
+  "discounts": [
+    {
+      "id": 1,
+      "code": "FIRST100",
+      "description": "₹100 off on your first booking",
+      "discount_type": "flat",
+      "discount_value": 100,
+      "min_purchase": 500,
+      "valid_until": "2025-12-31",
+      "applicable_categories": ["all"]
+    },
+    {
+      "id": 2,
+      "code": "COMEDY20",
+      "description": "20% off on comedy events",
+      "discount_type": "percentage",
+      "discount_value": 20,
+      "min_purchase": 300,
+      "valid_until": "2025-11-30",
+      "applicable_categories": ["standup", "comedy"]
+    },
+    {
+      "id": 3,
+      "code": "SPORTS50",
+      "description": "₹50 off on sports events",
+      "discount_type": "flat",
+      "discount_value": 50,
+      "min_purchase": 200,
+      "valid_until": "2025-11-25",
+      "applicable_categories": ["sports"]
+    },
+    {
+      "id": 4,
+      "code": "WEEKEND15",
+      "description": "15% off on weekend bookings",
+      "discount_type": "percentage",
+      "discount_value": 15,
+      "min_purchase": 400,
+      "valid_until": "2025-12-15",
+      "applicable_categories": ["all"]
+    },
+    {
+      "id": 5,
+      "code": "CLUB200",
+      "description": "₹200 off on club events",
+      "discount_type": "flat",
+      "discount_value": 200,
+      "min_purchase": 800,
+      "valid_until": "2025-11-20",
+      "applicable_categories": ["club", "party"]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Comedy",
+      "slug": "comedy",
+      "icon": "😂",
+      "description": "Stand-up comedy shows and open mics"
+    },
+    {
+      "id": 2,
+      "name": "Poetry",
+      "slug": "poetry",
+      "icon": "📖",
+      "description": "Poetry readings and spoken word events"
+    },
+    {
+      "id": 3,
+      "name": "Theatre",
+      "slug": "theatre",
+      "icon": "🎭",
+      "description": "Drama performances and stage plays"
+    },
+    {
+      "id": 4,
+      "name": "Club & Party",
+      "slug": "club",
+      "icon": "🎉",
+      "description": "Nightlife, DJ nights and party events"
+    },
+    {
+      "id": 5,
+      "name": "Sports",
+      "slug": "sports",
+      "icon": "⚽",
+      "description": "Sports tournaments and fitness events"
+    }
+  ]
+}
