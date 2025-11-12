@@ -300,26 +300,7 @@
       "is_featured": false,
       "available_seats": 150
     },
-    {
-      "id": 6004,
-      "title": "Street Football Tournament",
-      "name": "Urban Sports",
-      "description": "Show off your football skills in Bangalore's street football championship.",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=800",
-      "location": {
-        "city": "Bangalore",
-        "venue": "Play Arena"
-      },
-      "dates": [
-        { "date": "2025-11-13", "time": "4:00 PM" }
-      ],
-      "base_price": 399,
-      "currency": "INR",
-      "categories": ["sports", "football"],
-      "is_trending": false,
-      "is_featured": false,
-      "available_seats": 60
-    },
+   
    
   ]
 }
