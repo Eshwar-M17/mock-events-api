@@ -9,7 +9,6 @@
       "location": {
         "city": "Bangalore",
         "venue": "Good Shepherd Auditorium",
-        "address": "7, Museum Rd, Ashok Nagar, Bengaluru"
       },
       "dates": [
         { "date": "2025-11-12", "time": "8:00 PM" }
@@ -30,7 +29,6 @@
       "location": {
         "city": "Bangalore",
         "venue": "That Comedy Club",
-        "address": "4th Floor, 80 Feet Rd, Koramangala, Bengaluru"
       },
       "dates": [
         { "date": "2025-11-13", "time": "7:00 PM" }
@@ -51,7 +49,6 @@
       "location": {
         "city": "Bangalore",
         "venue": "Ranga Shankara",
-        "address": "36/2, 8th Cross Rd, J.P. Nagar, Bengaluru"
       },
       "dates": [
         { "date": "2025-11-14", "time": "6:30 PM" }
@@ -72,7 +69,6 @@
       "location": {
         "city": "Bangalore",
         "venue": "Botanical Gardens Amphitheatre",
-        "address": "Lalbagh Rd, Mavalli, Bengaluru"
       },
       "dates": [
         { "date": "2025-11-12", "time": "6:00 PM" }
@@ -93,7 +89,6 @@
       "location": {
         "city": "Bangalore",
         "venue": "Atta Galatta",
-        "address": "134, KHB Colony, Koramangala, Bengaluru"
       },
       "dates": [
         { "date": "2025-11-13", "time": "7:00 PM" }
@@ -114,7 +109,6 @@
       "location": {
         "city": "Bangalore",
         "venue": "Alliance Française",
-        "address": "Thimmaiah Rd, Vasanth Nagar, Bengaluru"
       },
       "dates": [
         { "date": "2025-11-14", "time": "6:30 PM" }
@@ -135,7 +129,6 @@
       "location": {
         "city": "Bangalore",
         "venue": "Cubbon Park Open Theatre",
-        "address": "Cubbon Park Rd, Sampangi Rama Nagar, Bengaluru"
       },
       "dates": [
         { "date": "2025-11-12", "time": "7:30 PM" }
@@ -156,7 +149,6 @@
       "location": {
         "city": "Bangalore",
         "venue": "Ravindra Kalakshetra",
-        "address": "JC Rd, Sudhama Nagar, Bengaluru"
       },
       "dates": [
         { "date": "2025-11-13", "time": "6:00 PM" }
@@ -177,7 +169,6 @@
       "location": {
         "city": "Bangalore",
         "venue": "Jagriti Theatre",
-        "address": "Whitefield, Ramagondanahalli, Bengaluru"
       },
       "dates": [
         { "date": "2025-11-14", "time": "8:00 PM" }
@@ -198,7 +189,6 @@
       "location": {
         "city": "Bangalore",
         "venue": "NoLimmits Lounge & Club",
-        "address": "8, Ground Floor, Brigade Rd, Ashok Nagar, Bengaluru"
       },
       "dates": [
         { "date": "2025-11-12", "time": "9:00 PM" }
@@ -219,7 +209,6 @@
       "location": {
         "city": "Bangalore",
         "venue": "Foxtrot House of Subculture",
-        "address": "12th Main Rd, Indiranagar, Bengaluru"
       },
       "dates": [
         { "date": "2025-11-13", "time": "10:00 PM" }
@@ -240,7 +229,6 @@
       "location": {
         "city": "Bangalore",
         "venue": "Skyye",
-        "address": "UB City, 16th Floor, Ashok Nagar, Bengaluru"
       },
       "dates": [
         { "date": "2025-11-14", "time": "5:00 PM" }
@@ -261,7 +249,6 @@
       "location": {
         "city": "Bangalore",
         "venue": "Kanteerava Stadium",
-        "address": "Kasturba Rd, Sampangi Rama Nagar, Bengaluru"
       },
       "dates": [
         { "date": "2025-11-12", "time": "6:00 AM" }
@@ -282,7 +269,6 @@
       "location": {
         "city": "Bangalore",
         "venue": "Gaming Monk Arena",
-        "address": "14th Main Rd, HSR Layout, Bengaluru"
       },
       "dates": [
         { "date": "2025-11-13", "time": "10:00 AM" }
@@ -303,7 +289,6 @@
       "location": {
         "city": "Bangalore",
         "venue": "Cubbon Park",
-        "address": "Kasturba Rd, Sampangi Rama Nagar, Bengaluru"
       },
       "dates": [
         { "date": "2025-11-14", "time": "5:30 AM" }
@@ -324,7 +309,6 @@
       "location": {
         "city": "Bangalore",
         "venue": "Play Arena",
-        "address": "Sarjapur Rd, Kaikondrahalli, Bengaluru"
       },
       "dates": [
         { "date": "2025-11-13", "time": "4:00 PM" }
@@ -345,7 +329,6 @@
       "location": {
         "city": "Bangalore",
         "venue": "Shuttle Express",
-        "address": "HSR Layout, Sector 2, Bengaluru"
       },
       "dates": [
         { "date": "2025-11-14", "time": "8:00 AM" }
