@@ -5,10 +5,10 @@
       "title": "Bengaluru Laugh Fest - Night 1",
       "name": "Kanan Gill",
       "description": "Kanan Gill headlines a new set of jokes on his India Laugh Fest tour.",
-      "banner_image": "https://images.unsplash.com/photo-1527224857830-43a7acc85260?w=800",
+      "image": "https://images.unsplash.com/photo-1527224857830-43a7acc85260?w=800",
       "location": {
         "city": "Bangalore",
-        "venue": "Good Shepherd Auditorium",
+        "venue": "Good Shepherd Auditorium"
       },
       "dates": [
         { "date": "2025-11-12", "time": "8:00 PM" }
@@ -25,10 +25,10 @@
       "title": "Open Mic Mania",
       "name": "Various Comics",
       "description": "The city's best new talent try out their material at Bangalore's premier open mic night.",
-      "banner_image": "https://images.unsplash.com/photo-1585699324551-f6c309eedeca?w=800",
+      "image": "https://images.unsplash.com/photo-1585699324551-f6c309eedeca?w=800",
       "location": {
         "city": "Bangalore",
-        "venue": "That Comedy Club",
+        "venue": "That Comedy Club"
       },
       "dates": [
         { "date": "2025-11-13", "time": "7:00 PM" }
@@ -45,10 +45,10 @@
       "title": "Laugh Riot Weekend",
       "name": "Rahul Subramanian",
       "description": "An evening of laughter with Rahul Subramanian performing his brand new set.",
-      "banner_image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=800",
+      "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=800",
       "location": {
         "city": "Bangalore",
-        "venue": "Ranga Shankara",
+        "venue": "Ranga Shankara"
       },
       "dates": [
         { "date": "2025-11-14", "time": "6:30 PM" }
@@ -65,10 +65,10 @@
       "title": "Verses in the Garden",
       "name": "Anamika Joshi",
       "description": "Experience lyrical magic under the stars at Bangalore's most enchanting poetry night.",
-      "banner_image": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800",
+      "image": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800",
       "location": {
         "city": "Bangalore",
-        "venue": "Botanical Gardens Amphitheatre",
+        "venue": "Botanical Gardens Amphitheatre"
       },
       "dates": [
         { "date": "2025-11-12", "time": "6:00 PM" }
@@ -85,10 +85,10 @@
       "title": "Open Mic Poetry Bash",
       "name": "Various Artists",
       "description": "New and established poets share their work in this inclusive open mic.",
-      "banner_image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
       "location": {
         "city": "Bangalore",
-        "venue": "Atta Galatta",
+        "venue": "Atta Galatta"
       },
       "dates": [
         { "date": "2025-11-13", "time": "7:00 PM" }
@@ -105,10 +105,10 @@
       "title": "Spoken Word Extravaganza",
       "name": "Praveen Kumar",
       "description": "A gathering for lovers of live storytelling and spoken word artistry.",
-      "banner_image": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=800",
+      "image": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=800",
       "location": {
         "city": "Bangalore",
-        "venue": "Alliance Française",
+        "venue": "Alliance Française"
       },
       "dates": [
         { "date": "2025-11-14", "time": "6:30 PM" }
@@ -125,10 +125,10 @@
       "title": "Shakespeare in the Park: Hamlet",
       "name": "The Bangalore Theatre Society",
       "description": "A classic English tragedy staged open-air with a local cast.",
-      "banner_image": "https://images.unsplash.com/photo-1507924538820-ede94a04019d?w=800",
+      "image": "https://images.unsplash.com/photo-1507924538820-ede94a04019d?w=800",
       "location": {
         "city": "Bangalore",
-        "venue": "Cubbon Park Open Theatre",
+        "venue": "Cubbon Park Open Theatre"
       },
       "dates": [
         { "date": "2025-11-12", "time": "7:30 PM" }
@@ -145,10 +145,10 @@
       "title": "Hindi Play Night: 'Shatranj Ke Khiladi'",
       "name": "Natya Rang",
       "description": "A Hindi adaptation of the iconic story by Premchand, brought to life on stage.",
-      "banner_image": "https://images.unsplash.com/photo-1514306191717-452ec28c7814?w=800",
+      "image": "https://images.unsplash.com/photo-1514306191717-452ec28c7814?w=800",
       "location": {
         "city": "Bangalore",
-        "venue": "Ravindra Kalakshetra",
+        "venue": "Ravindra Kalakshetra"
       },
       "dates": [
         { "date": "2025-11-13", "time": "6:00 PM" }
@@ -165,10 +165,10 @@
       "title": "Modern Theatre: 'Voices Unheard'",
       "name": "Avant Theatre",
       "description": "A contemporary play exploring modern themes, featuring Bangalore's rising talents.",
-      "banner_image": "https://images.unsplash.com/photo-1503095396549-807759245b35?w=800",
+      "image": "https://images.unsplash.com/photo-1503095396549-807759245b35?w=800",
       "location": {
         "city": "Bangalore",
-        "venue": "Jagriti Theatre",
+        "venue": "Jagriti Theatre"
       },
       "dates": [
         { "date": "2025-11-14", "time": "8:00 PM" }
@@ -185,10 +185,10 @@
       "title": "Neon Night Party",
       "name": "DJ Shadow Dubai",
       "description": "A dazzling neon party with the best EDM from DJ Shadow Dubai. Glow in the dark and dance all night.",
-      "banner_image": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=800",
+      "image": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=800",
       "location": {
         "city": "Bangalore",
-        "venue": "NoLimmits Lounge & Club",
+        "venue": "NoLimmits Lounge & Club"
       },
       "dates": [
         { "date": "2025-11-12", "time": "9:00 PM" }
@@ -205,10 +205,10 @@
       "title": "Bollywood Club Night",
       "name": "DJ Chetas",
       "description": "Bangalore's favorite Bollywood DJ spins the hottest tracks at one of the city's top venues.",
-      "banner_image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=800",
+      "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=800",
       "location": {
         "city": "Bangalore",
-        "venue": "Foxtrot House of Subculture",
+        "venue": "Foxtrot House of Subculture"
       },
       "dates": [
         { "date": "2025-11-13", "time": "10:00 PM" }
@@ -225,10 +225,10 @@
       "title": "Saturday Sundowner",
       "name": "Anish Sood",
       "description": "Chill to house and deep beats with Anish Sood at Bangalore's favorite rooftop club.",
-      "banner_image": "https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec?w=800",
+      "image": "https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec?w=800",
       "location": {
         "city": "Bangalore",
-        "venue": "Skyye",
+        "venue": "Skyye"
       },
       "dates": [
         { "date": "2025-11-14", "time": "5:00 PM" }
@@ -245,10 +245,10 @@
       "title": "Bangalore Marathon 2025",
       "name": "Marathon India",
       "description": "Annual city marathon featuring 5K, 10K, and full marathon circuits.",
-      "banner_image": "https://images.unsplash.com/photo-1452626038306-9aae5e071dd3?w=800",
+      "image": "https://images.unsplash.com/photo-1452626038306-9aae5e071dd3?w=800",
       "location": {
         "city": "Bangalore",
-        "venue": "Kanteerava Stadium",
+        "venue": "Kanteerava Stadium"
       },
       "dates": [
         { "date": "2025-11-12", "time": "6:00 AM" }
@@ -265,10 +265,10 @@
       "title": "FIFA E-sports Qualifier",
       "name": "E-League",
       "description": "Compete in Bangalore's biggest FIFA 25 e-sports tournament.",
-      "banner_image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800",
+      "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800",
       "location": {
         "city": "Bangalore",
-        "venue": "Gaming Monk Arena",
+        "venue": "Gaming Monk Arena"
       },
       "dates": [
         { "date": "2025-11-13", "time": "10:00 AM" }
@@ -285,10 +285,10 @@
       "title": "Cyclothon Bangalore",
       "name": "Cycle Knights",
       "description": "Ride across the city in India's fastest growing cycling event.",
-      "banner_image": "https://images.unsplash.com/photo-1541625602330-2277a4c46182?w=800",
+      "image": "https://images.unsplash.com/photo-1541625602330-2277a4c46182?w=800",
       "location": {
         "city": "Bangalore",
-        "venue": "Cubbon Park",
+        "venue": "Cubbon Park"
       },
       "dates": [
         { "date": "2025-11-14", "time": "5:30 AM" }
@@ -305,10 +305,10 @@
       "title": "Street Football Tournament",
       "name": "Urban Sports",
       "description": "Show off your football skills in Bangalore's street football championship.",
-      "banner_image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=800",
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=800",
       "location": {
         "city": "Bangalore",
-        "venue": "Play Arena",
+        "venue": "Play Arena"
       },
       "dates": [
         { "date": "2025-11-13", "time": "4:00 PM" }
@@ -325,10 +325,10 @@
       "title": "Badminton Challenge Cup",
       "name": "Smashers Club",
       "description": "Open badminton tournament for all age groups with prizes and trophies.",
-      "banner_image": "https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?w=800",
+      "image": "https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?w=800",
       "location": {
         "city": "Bangalore",
-        "venue": "Shuttle Express",
+        "venue": "Shuttle Express"
       },
       "dates": [
         { "date": "2025-11-14", "time": "8:00 AM" }
@@ -340,4 +340,5 @@
       "is_featured": false,
       "available_seats": 70
     }
-  ],
+  ]
+}
