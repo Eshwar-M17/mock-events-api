@@ -320,25 +320,6 @@
       "is_featured": false,
       "available_seats": 60
     },
-    {
-      "id": 6005,
-      "title": "Badminton Challenge Cup",
-      "name": "Smashers Club",
-      "description": "Open badminton tournament for all age groups with prizes and trophies.",
-      "image": "https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?w=800",
-      "location": {
-        "city": "Bangalore",
-        "venue": "Shuttle Express"
-      },
-      "dates": [
-        { "date": "2025-11-14", "time": "8:00 AM" }
-      ],
-      "base_price": 199,
-      "currency": "INR",
-      "categories": ["sports", "badminton"],
-      "is_trending": false,
-      "is_featured": false,
-      "available_seats": 70
-    }
+   
   ]
 }
